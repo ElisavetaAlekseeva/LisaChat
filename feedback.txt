@@ -1,0 +1,11 @@
+
+
+Hello elisaveta this is your hackaton feedback. 
+
+In general the app is really nice. need some userfriendly frontend:
+When register the form does not tell what is each of the fields so you need to figure it out bt yourself.
+In the beggining i was not able to enter to the chat it is not clear that the server needs to be running in a different terminal for it to work
+Also the database to hold the information is working locally so i needed to use a local database to.
+
+But congratulation for a really nice project. very complete and usefull. The code is well compartimented in sections.
+Keep the good work. 
